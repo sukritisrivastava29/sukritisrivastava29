@@ -8,9 +8,7 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 * 💻 Building full-stack applications with the **MERN Stack**
 * 🤖 Exploring AI-powered applications and integrations
 * 🚀 Always looking for opportunities to learn and collaborate
-
----
-
+--
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -43,9 +41,7 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 * VS Code
 * Docker *(Learning)*
 * Next.js *(Learning)*
-
 ---
-
 ## 📌 Featured Projects
 
 ### 💰 Finance OS
@@ -82,6 +78,3 @@ A simple CRUD-based notes application built to strengthen my understanding of fu
 
 ---
 
-
-
-> *"The best way to learn software engineering is by building, breaking, and improving."*
