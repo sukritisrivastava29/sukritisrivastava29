@@ -39,8 +39,9 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 * GitHub
 * Postman
 * VS Code
-* Docker *(Learning)*
-* Next.js *(Learning)*
+* Docker 
+* Next.js
+* SQL
 ---
 ## 📌 Featured Projects
 
@@ -68,13 +69,5 @@ A simple CRUD-based notes application built to strengthen my understanding of fu
 
 ---
 
-## 📈 Currently Working On
 
-* Improving project architecture
-* Learning Docker and deployment
-* Exploring Next.js
-* Strengthening Data Structures & Algorithms
-* Preparing for Software Engineering internships
-
----
 
