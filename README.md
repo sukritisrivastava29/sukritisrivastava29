@@ -8,7 +8,7 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 * 💻 Building full-stack applications with the **MERN Stack**
 * 🤖 Exploring AI-powered applications and integrations
 * 🚀 Always looking for opportunities to learn and collaborate
---
+
 ## 🛠️ Tech Stack
 
 ### Languages
