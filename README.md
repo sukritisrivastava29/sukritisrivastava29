@@ -1,99 +1,43 @@
-<h1 align="center">Hi there, I'm Sukriti 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Products;Currently+Learning+Next.js+%2B+Docker+%2B+System+Design" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:22D3EE&height=220&section=header&text=SUKRITI%20SRIVASTAVA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20AI%20ENTHUSIAST&descAlignY=58&descSize=17"/>
 
-<p align="center">
-  <a href="https://github.com/sukritisrv29">
-    <img src="https://komarev.com/ghpvc/?username=sukritisrv29&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/badge/B.Tech-ECE-blueviolet?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat" />
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+exist+yet.;React+%7C+Node.js+%7C+MongoDB+%7C+AI;Turning+ideas+into+working+products.;Currently+learning+Next.js+%2B+Docker+%2B+System+Design."/>
 
-### ⚡ About Me
+<br><br>
 
-```js
-const sukriti = {
-    role: "Full-Stack Developer",
-    education: "B.Tech — Electronics & Communication Engineering",
+<a href="https://github.com/sukritisrivastava29">
+<img src="https://img.shields.io/github/followers/sukritisrivastava29?label=FOLLOW&style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
+</a>
 
-    building: [
-        "Full-stack web applications",
-        "AI-powered products",
-        "Real-time applications"
-    ],
+<a href="mailto:sukriti.srivastava2903@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
 
-    currentlyLearning: ["Next.js", "Docker", "System Design"],
+<br><br>
 
-    interests: [
-        "Software Engineering",
-        "AI & LLM Applications",
-        "Scalable Systems",
-        "Product Engineering"
-    ],
-
-    askMeAbout: ["React", "Node.js", "MongoDB", "REST APIs", "AI Integration"]
-};
-```
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,docker,vscode,postman,java,python,cpp" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 Triply</h3>
-      <p align="center">A full-stack travel planning platform with real-time collaboration and AI-assisted itinerary suggestions.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💰 FinanceOS</h3>
-      <p align="center">A personal finance management app for tracking expenses, budgets, and financial insights.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><em>Add live demo & repo links here once deployed 🚀</em></p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukritisrv29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritisrv29&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritisrv29&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:sukriti.srivastava2903@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sukritisrv29">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/sukritisrv29">sukritisrv29</a> — let's build something great together!</i></p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     > whoami                                                 ║
+║                                                              ║
+║     Sukriti Srivastava                                      ║
+║     Full-Stack Developer                                    ║
+║     AI Enthusiast                                            ║
+║     ECE → Software Engineering                              ║
+║                                                              ║
+║     > status                                                 ║
+║                                                              ║
+║     ● ONLINE                                                 ║
+║     ● BUILDING                                               ║
+║     ● LEARNING                                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
