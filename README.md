@@ -114,24 +114,21 @@ Responsive weather application using real-time API data.
 
 ---
 
-## GitHub
+---
 
-<div align="center">
+## Currently Exploring
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sukritisrivastava29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritisrivastava29&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
+`Next.js` · `Docker` · `System Design` · `AI Engineering`
 
 ---
 
 <div align="center">
 
 **Open to software engineering internships and interesting projects.**
-
 <br>
-
 `BUILD · LEARN · IMPROVE`
 
 </div>
+
+---
+
