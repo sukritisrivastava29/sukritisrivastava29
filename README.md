@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sukritisrivastava29&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+
 </div>
 
 ---
@@ -39,15 +43,26 @@ Currently exploring **Next.js, Docker, System Design, and AI Engineering**.
 ```js
 const sukriti = {
   role: "Full-Stack Developer",
+  education: "B.Tech — Electronics & Communication Engineering",
+
   focus: [
     "Web Development",
     "AI Integration",
     "Product Engineering",
     "Real-Time Applications"
   ],
+
   currentlyLearning: [
     "Next.js",
     "Docker",
-    "System Design"
-  ]
+    "System Design",
+    "AI Engineering"
+  ],
+
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB", "MySQL"],
+    languages: ["JavaScript", "Python", "C++"]
+  }
 };
