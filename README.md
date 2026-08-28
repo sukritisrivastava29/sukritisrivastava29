@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+thoughtful+software+to+solve+real-world+problems.;Designing+and+building+user-focused+applications.;Exploring+AI%2C+scalable+systems%2C+and+modern+web+technologies."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+thoughtful+software+to+solve+real-world+problems.;Designing+and+building+user-focused+applications.;Exploring+AI%2C+scalable+systems%2C+and+modern+web+technologies."/>
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 01 — About
+# 01 — ABOUT
 
 I'm a **Full-Stack Developer and AI Enthusiast** focused on building practical, user-focused software.
 
